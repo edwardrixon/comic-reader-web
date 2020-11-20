@@ -1,6 +1,7 @@
 # comic-reader-web
 
-This is a comic reader that works on cbr and cbz files that are stored on a filesystem
+This is a comic reader that works on cbr and cbz files that are stored on a filesystem.
+You will need a docker environment setup to use it. Installing Docker is beyond the scope of this readme.
 
 ## Installation
 
