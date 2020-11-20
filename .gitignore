@@ -1,0 +1,3 @@
+services/web/env
+services/web/project/static/temp
+services/web/sqlite.db
