@@ -6,7 +6,7 @@ This is a comic reader that works on cbr and cbz files that are stored on a file
 
 Clone the repository and cd into it.
 
-Edit the docker-compose.yml file, replacing /local/path/that/has/your/comics/ with the path to your comics directory.
+Create a file called docker-compose.yml using the template below, replacing /local/path/that/has/your/comics/ with the path to your comics directory.
 
 ```
 version: '3.7'
