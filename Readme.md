@@ -29,12 +29,12 @@ services:
 
 Execute the following command (This will take a little while as it compiles Pillow)
 ```bash
-docker-compose build
+sudo docker-compose build
 ```
 
 Then to run the container, execute
 ```bash
-docker-compose up -d
+sudo docker-compose up -d
 ```
 
 Browse to http://<server_ip>:5000/ and you should see a directory listing. Use it to select and open a comic in the browser.
